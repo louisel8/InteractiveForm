@@ -1,4 +1,15 @@
-# InteractiveForm
+# InteractiveForm - V2
+
+1. fixed Design and color session, so that when chaning the design, the initial selected color will not visable.
+
+2. fixed payment session for Bitcon and Paypal payment methods.
+
+3. fixed warning icon, red border and the checkmark icon that previous missed.
+
+4. added a alert message when the form is submitted and the page refreshed itself.
+
+
+# InteractiveForm - V1
  This project implemented via using JavaScript and here are some main items about it:
 
 1. Focus on Name Field on Page Load:
